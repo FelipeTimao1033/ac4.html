@@ -15,6 +15,9 @@ input[type = text]:focus {
     text-transform: uppercase;
     text-align: left;    
 }   
+textarea:focus {
+    background-color: white;
+}
 
 #ccc{
     font-style: normal;
